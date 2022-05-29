@@ -1,0 +1,23 @@
+
+#blog-pagerx .blog-pager-older-link{margin:0px;border:none;position:relative;text-align:center;color:#fff!important;transition:.2s;display:inline-block;height:38px;font-size:14px;font-weight:700;text-transform:uppercase;line-height:38px;padding-right:27px;padding-left:27px;border-radius:3px}
+#content-wrap {float: none;width: 100%;}
+@media screen and (max-width:680px){#content-wrap{width:100%}}
+/* Page Navigation */
+#blog-pager{clear:both;width:auto;line-height:normal;display:block;text-align:left;overflow:visible;margin:20px 0 5px 0;overflow:hidden;line-height:35px;display:block!important;border-radius:0!important;margin:5px 0!important;}
+.showpageOf{text-decoration:none;background:#6d87db;color:#fff;font-weight:600;padding:11px 17px;text-transform:uppercase;margin:2px;font-size:11px;border-radius:2px}
+.showpagePoint{background:#333;color:#fff;padding:8px 14px;font-size:11px;border-radius:2px;text-decoration:none;}
+.showpageNum{text-decoration:none;color:#333;padding:6px 9px;font-size:11px;border-radius:2px;padding:1px;}
+.showpageNum a{text-decoration:none;background:#6d87db;color:#eceaf1;padding:7px 14px;text-transform:uppercase;font-size:11px;font-weight:600;border-radius:3px;transition:all .3s}
+.showpageNum a:hover{background:#333;text-decoration:none;color:#fff;}
+.rvad{padding:0 0;margin:0 0 0;}
+.rvad h1{font-size:14px;padding:12px;margin-bottom:0;font-weight:600;border-top-left-radius:10px;border-top-right-radius:11px;background:#6d87db url(https://1.bp.blogspot.com/-NsCsokSmPi4/XWZ76u4vokI/AAAAAAAAOCo/NskwcKqEXAk8zNffoafhnTM3kso9BXUKQCLcBGAs/s1600/otaku.png);text-transform:uppercase;text-align:left;color:white}
+.iconf{float:right;margin:-38px 19px;color:white;font-size:25px}
+.post:first-child{margin-top:-1px;border-top-left-radius:0!important;border-top-right-radius:0!important}
+.iconf h2{float:left;margin-right:5px;font-size:15px;margin:2px 5px;font-weight:700;text-transform:uppercase;}
+h3.rdtitle{font-size:13px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:Arial,sans-serif;padding:7px 6px;background-color:rgba(0,0,0,0.6);color:#fff;width:100%;display:inline-block;margin:0;position:absolute;bottom:0;}
+h3.rdtitle a{color:#fff;}
+.rdthumbs{display:block;}
+.rdpost li{float:left;width:120px;overflow:hidden;position:relative;margin:0 4px 4px 0;}
+.rdpost li:last-child{margin-right:0;}
+.rdsum p{display:none;}
+.thumbnail{position:relative;float:left;margin-right:7px;width:180px;overflow:hidden;height:120px;border-radius:
